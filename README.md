@@ -1,4 +1,4 @@
-# AWS Solutions Architect Journey
+# My AWS Journey
 
 A public record of my AWS and cloud learning journey, focused on architecture, infrastructure, security, networking, containers, observability, and AI on AWS.
 
